@@ -1,0 +1,1 @@
+gcc -S -Og -fno-asynchronous-unwind-tables $@ 
